@@ -4,6 +4,6 @@ See [coinponet.com](https://coinponet.com) for more details.
 ## How to use
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/coinponent/coinponent@1.0.9/dist/coinponent.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/coinponent/coinponent@1.1.0/dist/coinponent.js"></script>
 <coin-ponent api-key="YOUR_API_KEY"></coin-ponent>
 ```
